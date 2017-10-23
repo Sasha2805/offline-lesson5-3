@@ -1,0 +1,3 @@
+HourlyEmployee;John;Smith;1830.4;
+FixedWageEmployee;Bob;Smith;1500.0;
+Freelancer;Rachel;Oliver;1040.0;
